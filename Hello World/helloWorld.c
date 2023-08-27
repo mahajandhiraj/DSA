@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Hsdfgasdfgsdfhgsdfghadfghello World \n");
+    printf("Hello world\n");
     // praSDFadfasdfints Hello world
 
 
